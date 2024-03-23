@@ -281,7 +281,7 @@ About JSFXR: Jsfxr is an online 8 bit sound maker and sfx generator. All you nee
 browser. It's a JavaScript port of the original [sfxr](https://www.drpetter.se/project_sfxr.html) by DrPetter. You can also use it as a
 JavaScript library for playing and rendering sfxr sound effects in your games.
 
-- [JSFXR](sfxr.me)
+- [JSFXR](http://sfxr.me)
 - [Excalibur Discord](https://discord.gg/yYY6hGVTf5)
 - [Game Dev Shift Discord](https://discord.gg/BZMcuR3FBD)
 
