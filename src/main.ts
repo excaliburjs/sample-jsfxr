@@ -1,7 +1,7 @@
 import "./style.css";
 import { UI } from "@peasy-lib/peasy-ui";
 import { Engine, DisplayMode, Loader } from "excalibur";
-import { JsfxrResource } from "@excaliburjs/excalibur-jsfxr";
+import { JsfxrResource } from "@excaliburjs/plugin-jsfxr";
 import { sounds } from "./sounds";
 import { template } from "./template";
 import { model } from "./peasyEvents";
