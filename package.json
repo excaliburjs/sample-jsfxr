@@ -17,7 +17,7 @@
     "@peasy-lib/peasy-input": "^0.2.0",
     "@peasy-lib/peasy-ui": "^0.9.58",
     "excalibur": "^0.29.1",
-    "@excaliburjs/plugin-jsfxr": "0.29.0-alpha.1"
+    "@excaliburjs/plugin-jsfxr": "0.29.4"
   },
   "devDependencies": {
     "json": "^11.0.0",
