@@ -97,7 +97,7 @@ npm i @excaliburjs/plugin-jsfxr
 Declare and instantiate the new module and initialize
 
 ```ts
-import { JsfxrResource, SoundConfig } from "@excaliburjs/excalibur-jsfxr";
+import { JsfxrResource, SoundConfig } from "@excaliburjs/plugin-jsfxr";
 import { sounds } from "./sounds";
 
 let sndPlugin = new JsfxrResource();
@@ -115,7 +115,7 @@ As you may notice, we are loading sound configurations from sounds.ts in the exa
 sounds.ts
 
 ```ts
-import { SoundConfig } from "@excaliburjs/excalibur-jsfxr";
+import { SoundConfig } from "@excaliburjs/plugin-jsfxr";
 export const sounds: { [key: string]: SoundConfig } = {};
 
 sounds["pickup"] = {
