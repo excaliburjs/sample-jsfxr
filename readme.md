@@ -91,7 +91,7 @@ This will export a 'sounds.ts' file to your downloads folder, all ready to inpor
 To import the plug-in, from your shell:
 
 ```sh
-npm i @excalibur/excalibur-jsfxr
+npm i @excaliburjs/plugin-jsfxr
 ```
 
 Declare and instantiate the new module and initialize
